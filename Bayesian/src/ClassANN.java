@@ -1,7 +1,4 @@
 /* This is Artificial Neural Network using Feed Forward and Back Propagation.
- Made by -
- Parvez (IIT2011187)
- Tarun Sharma (IIT2011212)
  */
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
